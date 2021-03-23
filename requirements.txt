@@ -2,8 +2,14 @@ streamlit
 opencv-python-headless
 pandas
 numpy
+os
+glob
 tensorflow
 matplotlib
 sklearn
 keras
-library
+tqdm
+random
+PIL
+datetime
+sys
